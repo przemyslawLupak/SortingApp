@@ -1,0 +1,10 @@
+C:\Users\48692\source\repos\SortingVizualizer\SortingVizualizer\bin\Debug\SortingVizualizer.exe.config
+C:\Users\48692\source\repos\SortingVizualizer\SortingVizualizer\bin\Debug\SortingVizualizer.exe
+C:\Users\48692\source\repos\SortingVizualizer\SortingVizualizer\bin\Debug\SortingVizualizer.pdb
+C:\Users\48692\source\repos\SortingVizualizer\SortingVizualizer\obj\Debug\SortingVizualizer.csprojAssemblyReference.cache
+C:\Users\48692\source\repos\SortingVizualizer\SortingVizualizer\obj\Debug\SortingVizualizer.Form1.resources
+C:\Users\48692\source\repos\SortingVizualizer\SortingVizualizer\obj\Debug\SortingVizualizer.Properties.Resources.resources
+C:\Users\48692\source\repos\SortingVizualizer\SortingVizualizer\obj\Debug\SortingVizualizer.csproj.GenerateResource.cache
+C:\Users\48692\source\repos\SortingVizualizer\SortingVizualizer\obj\Debug\SortingVizualizer.csproj.CoreCompileInputs.cache
+C:\Users\48692\source\repos\SortingVizualizer\SortingVizualizer\obj\Debug\SortingVizualizer.exe
+C:\Users\48692\source\repos\SortingVizualizer\SortingVizualizer\obj\Debug\SortingVizualizer.pdb
